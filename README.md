@@ -76,8 +76,4 @@ systemctl status ovirt-engine
 - Perform during a maintenance window  
 - Do not expose sensitive information (IP, credentials)  
 
----
-
-## 📌 Author
-Documented by: Your Name  
-Role: System / Application Support Engineer  
+-----
